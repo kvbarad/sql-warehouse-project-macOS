@@ -1,19 +1,19 @@
-Rules Implemented in the SQL Query
-Time-Series Sales Analysis
-Sales and customer counts are aggregated by year and month.
-Null order dates are excluded to ensure data accuracy.
-Distinct customers are counted per time period to avoid double counting.
-Cumulative Measures
-Running total/cumulative sales are calculated monthly and yearly.
-Running averages for price are computed to reflect trends in pricing.
-Performance Analysis
-Product yearly sales are compared against the product average sales and previous year's sales using window functions such as AVG() and LAG().
-This reveals growth or decline performance by product.
-Part-to-Whole Proportional Analysis
-Sales are aggregated by product category.
-The percentage contribution of each category to total sales is calculated.
+### Rules Implemented in the SQL Query
+Time-Series Sales Analysis  
+Sales and customer counts are aggregated by year and month.  
+Null order dates are excluded to ensure data accuracy.  
+Distinct customers are counted per time period to avoid double counting.  
+#### Cumulative Measures  
+Running total/cumulative sales are calculated monthly and yearly.  
+Running averages for price are computed to reflect trends in pricing.  
+#### Performance Analysis  
+Product yearly sales are compared against the product average sales and previous year's sales using window functions such as AVG() and LAG().  
+This reveals growth or decline performance by product.  
+Part-to-Whole Proportional Analysis  
+Sales are aggregated by product category.  
+The percentage contribution of each category to total sales is calculated.  
 
-Product Segmentation
+### Product Segmentation
 Products are segmented into cost buckets:
 below 100
 100-500
