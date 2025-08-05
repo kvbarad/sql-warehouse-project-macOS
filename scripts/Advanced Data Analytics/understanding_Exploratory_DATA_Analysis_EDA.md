@@ -1,8 +1,8 @@
 # Data Layering:
-Utilizes gold and silver schemas which implies structured layers for curated (gold) and cleansed/staging (silver) data.
-Sampling for Validation:
-Using TOP 1000 selects to quickly verify data in key tables for sanity checks.
-Metadata Exploration:
+Utilizes gold and silver schemas which implies structured layers for curated (gold) and cleansed/staging (silver) data.  
+Sampling for Validation:  
+Using TOP 1000 selects to quickly verify data in key tables for sanity checks.  
+Metadata Exploration:  
 Querying INFORMATION_SCHEMA views to understand schema structure and data dictionary without assumptions.
 Dimension Exploration:
 Uses DISTINCT to identify unique values for dimensions like country, category, and product name.
