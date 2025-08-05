@@ -1,4 +1,4 @@
-**Hi there 👋 I’m [KritiVas Barad]!**
+**Hi there 👋 I’m KritiVas Barad!**
 
 - 🚀 Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
 - 💼 Experienced with MySQL, Docker, and large dataset processing for industry-scale solutions
