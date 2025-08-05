@@ -114,9 +114,6 @@ ON sd.sls_prd_key = pd.product_number
 
 GO
 
-
-/* Documentation WITH PERPLEXITY */
-
 /*
 -- Purpose: 
 -- This script creates/updates three core views in the gold data layer to support analytics:
