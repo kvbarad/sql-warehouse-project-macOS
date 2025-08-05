@@ -36,3 +36,5 @@ Before you begin, ensure you have the following installed:
 - Bash shell (standard on macOS)
 - (Recommended) SQL Server extension for VSCode
 
+
+
