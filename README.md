@@ -6,17 +6,17 @@ It is tailored for Mac users, data professionals, and learners seeking a streaml
 Table of Contents
 1. Overview
 2. Features
-Getting Started
-  Prerequisites
-  Installation
-  Launching the Environment
-  Connecting via Visual Studio Code
-Repository Structure
-Usage Guide
-Contributing
-License
-Acknowledgements
-Support
+3. Getting Started
+  . Prerequisites
+  . Installation
+  . Launching the Environment
+  . Connecting via Visual Studio Code
+4. Repository Structure
+5. Usage Guide
+6. Contributing
+7. License
+8. Acknowledgements
+9. Support
 
 
 Features
