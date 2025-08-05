@@ -397,7 +397,6 @@ SELECT TOP 1000 * FROM silver.erp_loc_101;
 SELECT TOP 1000 * FROM silver.erp_px_cat_g1v2;
 
 
-/* DOCUMENTATION USING PERPLEXITY */
 
 -- Purpose:
 -- Refreshes ("cleans and stages") all tables in the 'silver' schema by truncating them
