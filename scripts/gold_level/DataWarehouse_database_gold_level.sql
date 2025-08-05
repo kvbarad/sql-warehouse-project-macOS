@@ -1,14 +1,5 @@
 
 USE DataWarehouse;
--- CRM DATA TOP 1000 CHECK
-SELECT TOP 1000 * FROM gold.dim_customers;
-SELECT TOP 1000 * FROM silver.crm_prd_info;
-SELECT TOP 1000 * FROM silver.crm_sales_details;
-
--- ERP DATA TOP 1000 CHECK
-SELECT TOP 1000 * FROM silver.erp_cust_az12;
-SELECT TOP 1000 * FROM silver.erp_loc_101;
-SELECT TOP 1000 * FROM silver.erp_px_cat_g1v2;
 
 /*
 -- Purpose: 
