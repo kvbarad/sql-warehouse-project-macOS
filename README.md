@@ -4,8 +4,8 @@ This repository enables rapid local deployment of SQL Server via Docker and seam
 It is tailored for Mac users, data professionals, and learners seeking a streamlined yet efficient warehousing setup.
 
 Table of Contents
-Overview
-Features
+1. Overview
+2. Features
 Getting Started
   Prerequisites
   Installation
