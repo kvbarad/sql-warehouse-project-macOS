@@ -68,5 +68,5 @@ Should you encounter problems or require assistance, please raise an issue via t
 
 Engage, explore, and enhance your data warehousing journey with sqp-warehouse-project-mac—crafted for Mac users and designed for real-world productivity.
 
-#### **Note:-**
+#### 📝 **Note:-**
 _The repository will continue to get updates and will get structured_
