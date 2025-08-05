@@ -52,9 +52,7 @@ Before you begin, ensure you have the following installed:
 **License**
 - This project is licensed under the MIT License. See the LICENSE file for more details.
 
-**Acknowledgements**
-- Grateful thanks to contributors and open-source communities whose tools power this project: Docker, Microsoft SQL Server, Visual Studio Code, and many more.
-Support
+
 
 Should you encounter problems or require assistance, please raise an issue via the GitHub Issues tab, or contact the repository maintainers. We aim to respond promptly and help you make the most of this resource.
 
