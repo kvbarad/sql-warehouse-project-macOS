@@ -276,7 +276,7 @@ ORDER BY total_customers DESC;
 
 
 /* ============================
-   7. DETAILED CUSTOMER REPORT WITH KPIs AND SEGMENTS
+   7. DETAILED CUSTOMER REPORT WITH SEGMENTS
 ============================ */
 
 -- Create or replace a view that consolidates customer metrics and segments
