@@ -39,3 +39,11 @@ Before you begin, ensure you have the following installed:
 
 <img width="1561" height="652" alt="image" src="https://github.com/user-attachments/assets/d0ef87f5-39df-4cb8-b5dc-b3af7d9f6cb2" />
 
+
+**Usage Guide**
+Once the environment is active, you may:
+- Browse /sql for example scripts – covering fundamental DDL, DML, and ETL operations
+- Create new tables, run custom queries, or experiment with analytics tasks
+- Extend or customise scripts to fit your own warehousing scenarios
+- Employ VSCode features for efficient SQL coding and debugging
+
