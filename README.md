@@ -49,3 +49,13 @@ Before you begin, ensure you have the following installed:
 - Extend or customise scripts to fit your own warehousing scenarios
 - Employ VSCode features for efficient SQL coding and debugging
 
+**License**
+- This project is licensed under the MIT License. See the LICENSE file for more details.
+
+**Acknowledgements**
+- Grateful thanks to contributors and open-source communities whose tools power this project: Docker, Microsoft SQL Server, Visual Studio Code, and many more.
+Support
+
+Should you encounter problems or require assistance, please raise an issue via the GitHub Issues tab, or contact the repository maintainers. We aim to respond promptly and help you make the most of this resource.
+
+Engage, explore, and enhance your data warehousing journey with sqp-warehouse-project-mac—crafted for Mac users and designed for real-world productivity.
