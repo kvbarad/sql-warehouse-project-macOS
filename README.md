@@ -1,4 +1,4 @@
-**Hi there 👋 I’m KritiVas Barad!**
+# **Hi there 👋 I’m KritiVas Barad!**
 
 - 🚀 Data enthusiast focused on SQL, ETL, and cutting-edge AI applications
 - 💼 Experienced with MySQL, Docker, and large dataset processing for industry-scale solutions
@@ -50,7 +50,7 @@ Before you begin, ensure you have the following installed:
 <img width="1561" height="652" alt="image" src="https://github.com/user-attachments/assets/d0ef87f5-39df-4cb8-b5dc-b3af7d9f6cb2" />
 
 
-**Usage Guide**.
+### **Usage Guide**.
 - Once the environment is active, you may:
 
   
@@ -59,7 +59,7 @@ Before you begin, ensure you have the following installed:
 - Extend or customise scripts to fit your own warehousing scenarios
 - Employ VSCode features for efficient SQL coding and debugging
 
-**License**
+### **License**
 - This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
@@ -68,5 +68,5 @@ Should you encounter problems or require assistance, please raise an issue via t
 
 Engage, explore, and enhance your data warehousing journey with sqp-warehouse-project-mac—crafted for Mac users and designed for real-world productivity.
 
-**Note**
-The repository will continue to get updates and will get structured 
+#### **Note**  
+_The repository will continue to get updates and will get structured_
