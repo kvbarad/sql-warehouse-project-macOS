@@ -13,7 +13,7 @@ Let’s connect and build something outstanding together.
 This repository enables rapid local deployment of SQL Server via Docker and seamless development with Visual Studio Code.
 It is tailored for Mac users, data professionals, and learners seeking a streamlined yet efficient warehousing setup.
 
-# **Table of Contents**
+# 𝌞 **Table of Contents**
 1. Overview
 2. Features
 3. Getting Started
@@ -36,7 +36,7 @@ Pre-configured Visual Studio Code workspace with recommended extensions
 Sample SQL scripts for database creation, ETL, and analytics workflows
 Clear and concise documentation for both new and experienced users
 
-# **Getting Started**
+# 🏁 **Getting Started**
 
 Prerequisites
 Before you begin, ensure you have the following installed:
