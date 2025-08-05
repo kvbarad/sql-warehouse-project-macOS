@@ -24,7 +24,7 @@ docker cp ~/Downloads/sql-data-warehouse-project/datasets/source_erp/CUST_AZ12.c
 docker cp ~/Downloads/sql-data-warehouse-project/datasets/source_erp/LOC_A101.csv localsqlserver:/var/opt/mssql/backup/
 docker cp ~/Downloads/sql-data-warehouse-project/datasets/source_erp/PX_CAT_G1V2.csv localsqlserver:/var/opt/mssql/backup/
 
-**Explanation of the Query / Docker Command**
+****Explanation of the Query / Docker Command****
 The docker run command launches a new SQL Server container with these key options:
 -e 'ACCEPT_EULA=Y': Automatically accepts Microsoft’s SQL Server license agreement.
 -e 'SA_PASSWORD=yourpassword': Sets the system administrator password (replace with a secure password).
