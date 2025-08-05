@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 
 
 **Usage Guide**
-/n Once the environment is active, you may:
+\n Once the environment is active, you may:
 - Browse /sql for example scripts – covering fundamental DDL, DML, and ETL operations
 - Create new tables, run custom queries, or experiment with analytics tasks
 - Extend or customise scripts to fit your own warehousing scenarios
