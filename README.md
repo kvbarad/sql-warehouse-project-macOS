@@ -7,10 +7,10 @@ Table of Contents
 1. Overview
 2. Features
 3. Getting Started
-  . Prerequisites
-  . Installation
-  . Launching the Environment
-  . Connecting via Visual Studio Code
+   - Prerequisites
+   - Installation
+   - Launching the Environment
+   - Connecting via Visual Studio Code
 4. Repository Structure
 5. Usage Guide
 6. Contributing
