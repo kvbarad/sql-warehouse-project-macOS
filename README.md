@@ -37,4 +37,5 @@ Before you begin, ensure you have the following installed:
 - (Recommended) SQL Server extension for VSCode
 
 
+<img width="1561" height="652" alt="image" src="https://github.com/user-attachments/assets/d0ef87f5-39df-4cb8-b5dc-b3af7d9f6cb2" />
 
