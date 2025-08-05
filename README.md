@@ -57,3 +57,6 @@ Before you begin, ensure you have the following installed:
 Should you encounter problems or require assistance, please raise an issue via the GitHub Issues tab, or contact the repository maintainers. We aim to respond promptly and help you make the most of this resource.
 
 Engage, explore, and enhance your data warehousing journey with sqp-warehouse-project-mac—crafted for Mac users and designed for real-world productivity.
+
+**Note**
+The repository will continue to get updates and will get structured 
