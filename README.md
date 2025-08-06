@@ -68,5 +68,5 @@ Should you encounter problems or require assistance, please raise an issue via t
 
 Engage, explore, and enhance your data warehousing journey with sqp-warehouse-project-mac—crafted for Mac users and designed for real-world productivity.
 
-#### <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20"> </picture> **Note:-**
+#### <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270d_fe0f/512.gif" alt="✍" width="20" height="20"> </picture> **Note:-**
 _The repository will continue to get updates and will get structured_
