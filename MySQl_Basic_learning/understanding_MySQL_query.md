@@ -3,9 +3,9 @@
 
 The MySQL queries demonstrate a variety of business rules related to sales, customers, employees, and orders data within a typical sales database. These business rules pertain to data classification, aggregation, ranking, filtration, and reporting.
 
-Key Business Rules
+### Key Business Rules
 
-Customer Score Categorization
+1. Customer Score Categorization
 Customers are categorized based on their score into:
 High Score: score > 500
 Medium Score: score between 400 and 500
